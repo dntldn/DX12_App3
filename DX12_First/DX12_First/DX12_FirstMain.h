@@ -15,8 +15,6 @@ namespace DX12_First
 		void Update();
 		bool Render();
 
-		void test();
-
 		void OnWindowSizeChanged();
 		void OnSuspending();
 		void OnResuming();
