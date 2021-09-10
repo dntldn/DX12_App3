@@ -55,6 +55,11 @@ bool DX12_FirstMain::Render()
 	return m_sceneRenderer->Render();
 }
 
+void DX12_First::DX12_FirstMain::test()
+{
+	return;
+}
+
 // 창의 크기가 변하면(예: 장치 방향 변경) 애플리케이션 상태를 업데이트합니다.
 void DX12_FirstMain::OnWindowSizeChanged()
 {
