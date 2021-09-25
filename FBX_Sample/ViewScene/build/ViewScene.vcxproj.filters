@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\DrawScene.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\GetPosition.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\GlFunctions.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SetCamera.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SceneCache.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SceneContext.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\DrawText.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\targa.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\Common\Common.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\DrawScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\GetPosition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\GlFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SetCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SceneCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\SceneContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\DrawText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\targa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\Common\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Program Files\Autodesk\FBX\FBX SDK\2020.2\samples\ViewScene\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{47EDC53B-AAF7-310F-A273-49E0C3670876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4DC5B49F-FC07-32F0-8745-66724192301B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

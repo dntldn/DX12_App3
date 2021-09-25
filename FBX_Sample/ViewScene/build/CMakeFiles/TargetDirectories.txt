@@ -1,0 +1,3 @@
+C:/Program Files/Autodesk/FBX/FBX SDK/2020.2/samples/ViewScene/build/CMakeFiles/ViewScene.dir
+C:/Program Files/Autodesk/FBX/FBX SDK/2020.2/samples/ViewScene/build/CMakeFiles/ALL_BUILD.dir
+C:/Program Files/Autodesk/FBX/FBX SDK/2020.2/samples/ViewScene/build/CMakeFiles/ZERO_CHECK.dir
